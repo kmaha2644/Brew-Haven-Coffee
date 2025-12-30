@@ -238,6 +238,10 @@ a{
   margin-bottom: 10px;
 }
 
+.bhc{
+    margin-right: 120px;
+}
+
 .footer-box ul {
   list-style: none;
   padding: 0;
@@ -314,4 +318,5 @@ a{
   font-size: 15px;
   line-height: 1.8;
   color: #444;
+
 }
